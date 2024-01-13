@@ -1,16 +1,59 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Telmo-Sousa/telmo-sousa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Telmo Sousa, an enthusiastic portuguese tech lover with a passion for Linux, coding, and all things CLI. 🌟 
 
-Here are some ideas to get you started:
+## Back End 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java ☕️
+
+## Front End 🎨
+
+- JavaScript 🌐
+- HTML 📄
+- CSS 🎨
+
+## Databases 🗃️
+
+- MySQL 🐬
+
+## Frameworks and Libraries 🛠️
+
+- Spring Boot 🌱
+- React ⚛️
+- Bootstrap 🅱️
+- jQuery 📊
+- Mockito 🃏
+- Maven 📦
+- Hibernate 🏰
+- MVC 🔄
+
+## Others 🌐
+
+- Linux 🐧
+- Git 🌳
+- CLI ⚙️
+- Adobe Photoshop 🎨
+- Adobe Illustrator ✏️
+
+## Current Learning 📚
+
+I'm currently on a journey exploring Rust 🦀
+
+## Preferences ⚙️
+
+I have a keen interest in command-line interfaces (CLI) and I'm a big fan of Linux-based systems. 🖥️
+
+## Hobbies 🎮
+
+When I'm not coding:
+- Playing World of Tanks 🎮
+- Watching a stand-up comedy 
+- Going out with friends 🎉
+- Messing around with Gentoo Linux 🐧
+- Taking pictures of my pet turtle 🐢
+
+## Reach Me Out 📫
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/telmo-sousa/) 🤝
+
+[Check my personal portfolio](https://telmo-sousa.github.io/) 🌐
