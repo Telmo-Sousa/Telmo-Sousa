@@ -27,11 +27,10 @@ I'm Telmo Sousa, an enthusiastic portuguese tech lover with a passion for Linux,
 - Hibernate 🏰
 - MVC 🔄
 
-## Others 🌐
+## Others 🌍
 
 - Linux 🐧
 - Git 🌳
-- CLI ⚙️
 - Adobe Photoshop 🎨
 - Adobe Illustrator ✏️
 
@@ -47,7 +46,7 @@ I have a keen interest in command-line interfaces (CLI) and I'm a big fan of Lin
 
 When I'm not coding:
 - Playing World of Tanks 🎮
-- Watching a stand-up comedy 
+- Watching a stand-up comedy 🎙️
 - Going out with friends 🎉
 - Messing around with Gentoo Linux 🐧
 - Taking pictures of my pet turtle 🐢
@@ -56,4 +55,4 @@ When I'm not coding:
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/telmo-sousa/) 🤝
 
-[Check my personal portfolio](https://telmo-sousa.github.io/) 🌐
+[Check my personal portfolio](https://telmo-sousa.github.io/) 💼
