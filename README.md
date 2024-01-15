@@ -19,7 +19,6 @@ I'm Telmo Sousa, an enthusiastic portuguese tech lover with a passion for Linux,
 ## Frameworks and Libraries 🛠️
 
 - Spring Boot 🌱
-- React ⚛️
 - Bootstrap 🅱️
 - jQuery 📊
 - Mockito 🃏
@@ -44,8 +43,7 @@ I have a keen interest in command-line interfaces (CLI) and I'm a big fan of Lin
 
 ## Hobbies 🎮
 
-When I'm not coding:
-- Playing World of Tanks 🎮
+- Playing World of Tanks 🪖
 - Watching a stand-up comedy 🎙️
 - Going out with friends 🎉
 - Messing around with Gentoo Linux 🐧
