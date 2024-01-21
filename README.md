@@ -1,22 +1,22 @@
-# Hi there! 👋
+## Hi there! 👋
 
 I'm Telmo Sousa, an enthusiastic portuguese tech lover with a passion for Linux, coding, and all things CLI. 🌟 
 
-## Back End 💻
+### Back End 💻
 
 - Java ☕️
 
-## Front End 🎨
+### Front End 🎨
 
 - JavaScript 🌐
 - HTML 📄
 - CSS 🎨
 
-## Databases 🗃️
+### Databases 🗃️
 
 - MySQL 🐬
 
-## Frameworks and Libraries 🛠️
+### Frameworks and Libraries 🛠️
 
 - Spring Boot 🌱
 - Bootstrap 🅱️
@@ -26,22 +26,22 @@ I'm Telmo Sousa, an enthusiastic portuguese tech lover with a passion for Linux,
 - Hibernate 🏰
 - MVC 🔄
 
-## Others 🌍
+### Others 🌍
 
 - Linux 🐧
 - Git 🌳
 - Adobe Photoshop 🎨
 - Adobe Illustrator ✏️
 
-## Current Learning 📚
+### Current Learning 📚
 
-I'm currently on a journey exploring Rust 🦀
+I'm currently on a journey exploring Rust. 🦀
 
-## Preferences ⚙️
+### Preferences ⚙️
 
 I have a keen interest in command-line interfaces (CLI) and I'm a big fan of Linux-based systems. 🖥️
 
-## Hobbies 🎮
+### Hobbies 🎮
 
 - Playing World of Tanks 🪖
 - Watching a stand-up comedy 🎙️
@@ -49,7 +49,7 @@ I have a keen interest in command-line interfaces (CLI) and I'm a big fan of Lin
 - Messing around with Gentoo Linux 🐧
 - Taking pictures of my pet turtle 🐢
 
-## Reach Me Out 📫
+### Reach Me Out 📫
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/telmo-sousa/) 🤝
 
