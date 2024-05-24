@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Telmo Sousa, a passionate Portuguese tech enthusiast with a keen interest in CLI. ⚙️
+I'm Telmo, a developer and passionate Portuguese tech enthusiast with a love for the command line interface. ⚙️
 
 ### Tech Stack 💻
 
