@@ -17,4 +17,4 @@ Currently diving into Rust and AWS. 🦀
 
 ### Connect 🤝
 
-[LinkedIn](https://www.linkedin.com/in/telmo-sousa/) | [Portfolio](https://telmo-sousa.github.io/)
+[LinkedIn](https://www.linkedin.com/in/telmo-sousa/) | [Portfolio](https://tsousa.dev/)
