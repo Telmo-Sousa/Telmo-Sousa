@@ -13,7 +13,7 @@ I'm Telmo, a developer and passionate Portuguese tech enthusiast with a love for
 
 ### Learning 📚
 
-Currently diving into Rust and AWS. 🦀
+Currently diving into Rust. 🦀
 
 ### Connect 🤝
 
