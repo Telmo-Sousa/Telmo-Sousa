@@ -4,7 +4,7 @@ I'm Telmo, a developer and passionate Portuguese tech enthusiast with a love for
 
 ### Tech Stack 💻
 
-- **Backend:** Java (Spring Boot)
+- **Backend:** Java (Spring Boot), Python
 - **Frontend:** JavaScript, HTML, CSS (Bootstrap)
 - **Databases:** MySQL
 - **Frameworks:** Spring Boot, Bootstrap, jQuery
