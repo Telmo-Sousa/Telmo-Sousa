@@ -7,8 +7,8 @@ I'm Telmo, a Portuguese developer with a passion for technology. ⚙️
 - **Frameworks/Libraries:** Spring Boot, Bootstrap, jQuery
 - **Databases:** MySQL
 - **Tools:** Git, Maven, Hibernate
-- **Other Skills:** Linux, CLI, Photoshop, Illustrator
-- 
+- **Other Skills:** OS, Linux, CLI, Photoshop, Illustrator, AWS
+
 ### Learning 📚
 - Rust 🦀
 - Reverse Engineering 🛠️
