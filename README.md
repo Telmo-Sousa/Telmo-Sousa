@@ -1,20 +1,17 @@
 ## Hi there! 👋
 
-I'm Telmo, a developer and passionate Portuguese tech enthusiast with a love for the command line interface. ⚙️
+I'm Telmo, a Portuguese developer with a passion for technology. ⚙️
 
 ### Tech Stack 💻
-
-- **Backend:** Java (Spring Boot), Python
-- **Frontend:** JavaScript, HTML, CSS (Bootstrap)
+- **Languages:** Java, Python, JavaScript, HTML, CSS
+- **Frameworks/Libraries:** Spring Boot, Bootstrap, jQuery
 - **Databases:** MySQL
-- **Frameworks:** Spring Boot, Bootstrap, jQuery
 - **Tools:** Git, Maven, Hibernate
-- **Others:** Linux, CLI, Photoshop, Illustrator
-
+- **Other Skills:** Linux, CLI, Photoshop, Illustrator
+- 
 ### Learning 📚
-
-Currently diving into Rust. 🦀
+- Rust 🦀
+- Reverse Engineering 🛠️
 
 ### Connect 🤝
-
 [LinkedIn](https://www.linkedin.com/in/telmo-sousa/) | [Portfolio](https://tsousa.dev/)
