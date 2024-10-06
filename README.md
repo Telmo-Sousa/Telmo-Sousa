@@ -15,3 +15,5 @@ I'm Telmo, a Portuguese developer with a passion for technology. ⚙️
 
 ### Connect 🤝
 [LinkedIn](https://www.linkedin.com/in/telmo-sousa/) | [Portfolio](https://tsousa.dev/)
+
+Open for work!
